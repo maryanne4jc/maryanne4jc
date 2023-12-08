@@ -4,7 +4,7 @@
 
 ### About Me
 
-🎙️ With 15 years of experience as a broadcaster, I transitioned to a new challenge – Front End Web Development. My motivation? Creating safe and innovative web solutions for my sons and future generations.
+🎙️ With 15 years of experience as a broadcaster, I transitioned to a new challenge – Front End Web Development. My motivation? Creating safe and innovative web solutions for future generations.
 
 ### Skills
 
