@@ -26,7 +26,7 @@
 
 📧 Feel free to reach out for help or collaboration opportunities.
 
-- GitHub:(https://github.com/maryanne4jc)
+- GitHub: https://github.com/maryanne4jc
 - Email: maryanne4jc@gmail.com
 
 ### Let's Connect and Code Together! 🚀
